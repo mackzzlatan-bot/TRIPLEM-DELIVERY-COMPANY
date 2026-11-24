@@ -11,8 +11,8 @@ Files:
 3. In Supabase > Authentication > Users, add/ invite the owner user `triplem0147@gmail.com` and set a strong password. Do not enable public sign-ups.
 4. In Supabase > Project Settings > API, copy the Project URL and publishable key (or legacy anon key).
 5. Open `index.html` and replace:
-   - `PASTE_YOUR_SUPABASE_PROJECT_URL`
-   - `PASTE_YOUR_SUPABASE_PUBLISHABLE_KEY`
+   - `https://vxhqekdgahtmqvqnxwvh.supabase.co`
+   - `sb_publishable_XLSW8SF2XnDCX1LnDdkcsw__uKG01D-`
    with those values.
 6. Upload `index.html` to the root of your GitHub repository, then connect the repository to Cloudflare Pages.
 
